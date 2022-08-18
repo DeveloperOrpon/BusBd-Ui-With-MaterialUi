@@ -11,4 +11,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/DeveloperOrpon/BusBd-Ui-With-MaterialUi/blob/master/Capture0.PNG?raw=true' width="300px"  />
 <img src='https://github.com/DeveloperOrpon/BusBd-Ui-With-MaterialUi/blob/master/Capture1.PNG?raw=true' width="300px"  />
-<img src='https://github.com/DeveloperOrpon/BusBd-Ui-With-MaterialUi/blob/master/Capture2.PNG?raw=true' width="300px"  />
+<img src='https://github.com/DeveloperOrpon/BusBd-Ui-With-MaterialUi/blob/master/Capture.PNG?raw=true' width="300px"  />
