@@ -2,7 +2,7 @@
 
 ## *Develoer Orpon*
 
-**Bus Tickets Online Booking App** This App Share the image like social media
+**Bus Tickets Online Booking App** This App Ui design Of Tickets Online Booking
 
 Time spent: **5** Day **6** hours spent in total
 ## Video Walkthrough
